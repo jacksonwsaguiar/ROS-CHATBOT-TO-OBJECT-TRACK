@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+build/chatbot_launcher/chatbot_launcher.egg-info/PKG-INFO
+build/chatbot_launcher/chatbot_launcher.egg-info/SOURCES.txt
+build/chatbot_launcher/chatbot_launcher.egg-info/dependency_links.txt
+build/chatbot_launcher/chatbot_launcher.egg-info/entry_points.txt
+build/chatbot_launcher/chatbot_launcher.egg-info/requires.txt
+build/chatbot_launcher/chatbot_launcher.egg-info/top_level.txt
+build/chatbot_launcher/chatbot_launcher.egg-info/zip-safe
+chatbot_launcher/__init__.py
+chatbot_launcher/actions.py
+chatbot_launcher/chat.py
+resource/chatbot_launcher
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

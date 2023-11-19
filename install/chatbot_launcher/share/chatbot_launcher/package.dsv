@@ -1,0 +1,9 @@
+source;share/chatbot_launcher/hook/pythonpath.ps1
+source;share/chatbot_launcher/hook/pythonpath.dsv
+source;share/chatbot_launcher/hook/pythonpath.sh
+source;share/chatbot_launcher/hook/ament_prefix_path.ps1
+source;share/chatbot_launcher/hook/ament_prefix_path.dsv
+source;share/chatbot_launcher/hook/ament_prefix_path.sh
+source;../../build/chatbot_launcher/share/chatbot_launcher/hook/pythonpath_develop.ps1
+source;../../build/chatbot_launcher/share/chatbot_launcher/hook/pythonpath_develop.dsv
+source;../../build/chatbot_launcher/share/chatbot_launcher/hook/pythonpath_develop.sh

@@ -1,0 +1,35 @@
+[0.881s] Invoking command in '/home/jacksonaguiar/ponderada3/chatbot_launcher': PYTHONPATH=/home/jacksonaguiar/ponderada3/build/chatbot_launcher/prefix_override:/home/jacksonaguiar/ponderada3/install/chatbot_launcher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/chatbot_launcher build --build-base /home/jacksonaguiar/ponderada3/build/chatbot_launcher/build install --record /home/jacksonaguiar/ponderada3/build/chatbot_launcher/install.log --single-version-externally-managed
+[1.201s] running egg_info
+[1.201s] creating ../build/chatbot_launcher/chatbot_launcher.egg-info
+[1.202s] writing ../build/chatbot_launcher/chatbot_launcher.egg-info/PKG-INFO
+[1.202s] writing dependency_links to ../build/chatbot_launcher/chatbot_launcher.egg-info/dependency_links.txt
+[1.202s] writing entry points to ../build/chatbot_launcher/chatbot_launcher.egg-info/entry_points.txt
+[1.202s] writing requirements to ../build/chatbot_launcher/chatbot_launcher.egg-info/requires.txt
+[1.203s] writing top-level names to ../build/chatbot_launcher/chatbot_launcher.egg-info/top_level.txt
+[1.203s] writing manifest file '../build/chatbot_launcher/chatbot_launcher.egg-info/SOURCES.txt'
+[1.204s] reading manifest file '../build/chatbot_launcher/chatbot_launcher.egg-info/SOURCES.txt'
+[1.205s] writing manifest file '../build/chatbot_launcher/chatbot_launcher.egg-info/SOURCES.txt'
+[1.205s] running build
+[1.206s] running build_py
+[1.206s] creating /home/jacksonaguiar/ponderada3/build/chatbot_launcher/build
+[1.206s] creating /home/jacksonaguiar/ponderada3/build/chatbot_launcher/build/lib
+[1.206s] creating /home/jacksonaguiar/ponderada3/build/chatbot_launcher/build/lib/chatbot_launcher
+[1.207s] copying chatbot_launcher/__init__.py -> /home/jacksonaguiar/ponderada3/build/chatbot_launcher/build/lib/chatbot_launcher
+[1.207s] running install
+[1.207s] running install_lib
+[1.208s] creating /home/jacksonaguiar/ponderada3/install/chatbot_launcher/lib/python3.10/site-packages/chatbot_launcher
+[1.208s] copying /home/jacksonaguiar/ponderada3/build/chatbot_launcher/build/lib/chatbot_launcher/__init__.py -> /home/jacksonaguiar/ponderada3/install/chatbot_launcher/lib/python3.10/site-packages/chatbot_launcher
+[1.209s] byte-compiling /home/jacksonaguiar/ponderada3/install/chatbot_launcher/lib/python3.10/site-packages/chatbot_launcher/__init__.py to __init__.cpython-310.pyc
+[1.209s] running install_data
+[1.210s] creating /home/jacksonaguiar/ponderada3/install/chatbot_launcher/share
+[1.210s] creating /home/jacksonaguiar/ponderada3/install/chatbot_launcher/share/ament_index
+[1.211s] creating /home/jacksonaguiar/ponderada3/install/chatbot_launcher/share/ament_index/resource_index
+[1.211s] creating /home/jacksonaguiar/ponderada3/install/chatbot_launcher/share/ament_index/resource_index/packages
+[1.211s] copying resource/chatbot_launcher -> /home/jacksonaguiar/ponderada3/install/chatbot_launcher/share/ament_index/resource_index/packages
+[1.212s] creating /home/jacksonaguiar/ponderada3/install/chatbot_launcher/share/chatbot_launcher
+[1.212s] copying package.xml -> /home/jacksonaguiar/ponderada3/install/chatbot_launcher/share/chatbot_launcher
+[1.212s] running install_egg_info
+[1.214s] Copying ../build/chatbot_launcher/chatbot_launcher.egg-info to /home/jacksonaguiar/ponderada3/install/chatbot_launcher/lib/python3.10/site-packages/chatbot_launcher-0.0.0-py3.10.egg-info
+[1.214s] running install_scripts
+[1.237s] writing list of installed files to '/home/jacksonaguiar/ponderada3/build/chatbot_launcher/install.log'
+[1.268s] Invoked command in '/home/jacksonaguiar/ponderada3/chatbot_launcher' returned '0': PYTHONPATH=/home/jacksonaguiar/ponderada3/build/chatbot_launcher/prefix_override:/home/jacksonaguiar/ponderada3/install/chatbot_launcher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/chatbot_launcher build --build-base /home/jacksonaguiar/ponderada3/build/chatbot_launcher/build install --record /home/jacksonaguiar/ponderada3/build/chatbot_launcher/install.log --single-version-externally-managed

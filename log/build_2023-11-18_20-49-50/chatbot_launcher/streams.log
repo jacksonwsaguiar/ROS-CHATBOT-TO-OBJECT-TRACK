@@ -1,0 +1,20 @@
+[0.655s] Invoking command in '/home/jacksonaguiar/ponderada3/src/chatbot_launcher': PYTHONPATH=/home/jacksonaguiar/ponderada3/build/chatbot_launcher/prefix_override:/home/jacksonaguiar/ponderada3/install/chatbot_launcher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/chatbot_launcher build --build-base /home/jacksonaguiar/ponderada3/build/chatbot_launcher/build install --record /home/jacksonaguiar/ponderada3/build/chatbot_launcher/install.log --single-version-externally-managed
+[0.895s] running egg_info
+[0.895s] writing ../../build/chatbot_launcher/chatbot_launcher.egg-info/PKG-INFO
+[0.897s] writing dependency_links to ../../build/chatbot_launcher/chatbot_launcher.egg-info/dependency_links.txt
+[0.897s] writing entry points to ../../build/chatbot_launcher/chatbot_launcher.egg-info/entry_points.txt
+[0.897s] writing requirements to ../../build/chatbot_launcher/chatbot_launcher.egg-info/requires.txt
+[0.897s] writing top-level names to ../../build/chatbot_launcher/chatbot_launcher.egg-info/top_level.txt
+[0.897s] reading manifest file '../../build/chatbot_launcher/chatbot_launcher.egg-info/SOURCES.txt'
+[0.898s] writing manifest file '../../build/chatbot_launcher/chatbot_launcher.egg-info/SOURCES.txt'
+[0.898s] running build
+[0.898s] running build_py
+[0.899s] running install
+[0.899s] running install_lib
+[0.900s] running install_data
+[0.901s] running install_egg_info
+[0.902s] removing '/home/jacksonaguiar/ponderada3/install/chatbot_launcher/lib/python3.10/site-packages/chatbot_launcher-0.0.0-py3.10.egg-info' (and everything under it)
+[0.902s] Copying ../../build/chatbot_launcher/chatbot_launcher.egg-info to /home/jacksonaguiar/ponderada3/install/chatbot_launcher/lib/python3.10/site-packages/chatbot_launcher-0.0.0-py3.10.egg-info
+[0.903s] running install_scripts
+[0.922s] writing list of installed files to '/home/jacksonaguiar/ponderada3/build/chatbot_launcher/install.log'
+[0.944s] Invoked command in '/home/jacksonaguiar/ponderada3/src/chatbot_launcher' returned '0': PYTHONPATH=/home/jacksonaguiar/ponderada3/build/chatbot_launcher/prefix_override:/home/jacksonaguiar/ponderada3/install/chatbot_launcher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/chatbot_launcher build --build-base /home/jacksonaguiar/ponderada3/build/chatbot_launcher/build install --record /home/jacksonaguiar/ponderada3/build/chatbot_launcher/install.log --single-version-externally-managed
